@@ -180,7 +180,7 @@ Table of Contents
 
     6.  [1337 Output](https://aacle.github.io/nmap#1337-output)
 
-10.  [Compare Scans](https://aacle.github.io/nmap#compare-scans)
+10. [Compare Scans](https://aacle.github.io/nmap#compare-scans)
 
     1.  [Comparison Using Ndiff](https://aacle.github.io/nmap#comparison-using-ndiff)
 
