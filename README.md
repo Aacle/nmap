@@ -188,7 +188,7 @@ Table of Contents
 
     3.  [XML Output Mode](https://aacle.github.io/nmap#xml-output-mode)
 
-11.  [Troubleshooting and Debugging](https://aacle.github.io/nmap#troubleshooting-and-debugging)
+11. [Troubleshooting and Debugging](https://aacle.github.io/nmap#troubleshooting-and-debugging)
 
     1.  [Get Help](https://aacle.github.io/nmap#get-help)
 
@@ -208,7 +208,7 @@ Table of Contents
 
     9.  [Specify a Network Interface](https://aacle.github.io/nmap#specify-a-network-interface)
 
-12.  Nmap Scripting Engine
+12. Nmap Scripting Engine
 
     1.  [Execute Individual Scripts](https://aacle.github.io/nmap#execute-individual-scripts)
 
